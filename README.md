@@ -3,7 +3,7 @@
 ![Screenshot_2](https://user-images.githubusercontent.com/45762789/111623806-ee54ad80-87fb-11eb-8a07-d2c8287fb452.jpg)
 3. Deploy - 
 https://fizik003-travel-app.herokuapp.com
-4. Backend - https://github.com/DaryaYa/travel-app/tree/develop  (и бэк и фтонт в одной репе)
+4. Backend - https://github.com/DaryaYa/travel-app/tree/develop
 5. Done 17.03.2021 / deadline 17.03.2021
 6. Score: 190 / 200
 Фронтэнд и бэкенд реализованы в 1 репо, прикручена БД (MongoDB), присутствует доп функционал (в виде игры-слева вверху иконка), можно ставить и смотреть рейтинг достопримечательностей ТОЛЬКО зарегистрированным юзерам.  
